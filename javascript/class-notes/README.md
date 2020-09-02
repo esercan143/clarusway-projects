@@ -1,2 +1,0 @@
-# Javascript Session Class-notes
-
